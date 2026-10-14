@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "templates": "Modèles",
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "pricing": "Tarifs",
+    "about": "À propos",
+    "login": "Se connecter",
+    "createResume": "Créer mon CV"
+  },
+  "hero": {
+    "badge": "✨ Votre carrière commence ici",
+    "title": "Votre avenir commence par un bon CV.",
+    "subtitle": "Créez un CV professionnel, moderne et personnalisé en quelques minutes. Choisissez votre modèle, racontez votre parcours et laissez PS CV Studio vous guider.",
+    "ctaCreate": "Créer mon CV gratuitement",
+    "ctaHowItWorks": "Découvrir les modèles",
+    "trustTitle": "Pensé pour les opportunités en Afrique et à l'international",
+    "feature1": "Personnalisation",
+    "feature2": "Export PDF HD",
+    "feature3": "IA Intégrée"
+  },
+  "howItWorks": {
+    "subtitle": "Processus simple",
+    "title": "Comment ça marche ?",
+    "desc": "Votre nouveau CV professionnel en 4 étapes rapides.",
+    "step1Title": "Choisissez votre modèle",
+    "step1Desc": "Sélectionnez un design percutant et professionnel.",
+    "step2Title": "Renseignez votre parcours",
+    "step2Desc": "Ajoutez vos expériences et formations en quelques clics.",
+    "step3Title": "Personnalisez et prévisualisez",
+    "step3Desc": "Mettez en forme et ajustez chaque détail en direct.",
+    "step4Title": "Téléchargez votre PDF",
+    "step4Desc": "Obtenez un document haute qualité prêt à l'envoi."
+  },
+  "templates": {
+    "badge": "Galerie professionnelle",
+    "title": "Nos Modèles de CV",
+    "subtitle": "Des designs épurés, élégants et optimisés pour séduire les recruteurs en Afrique et à l'international.",
+    "useTemplate": "Créer mon CV avec ce modèle",
+    "preview": "Prévisualiser",
+    "modern": "Modèle Moderne",
+    "modernDesc": "Bandeau coloré, idéal tech & marketing",
+    "classic": "Modèle Classique",
+    "classicDesc": "Structure classique et formelle",
+    "minimalist": "Modèle Minimaliste",
+    "minimalistDesc": "Espaces généreux, épuré",
+    "creative": "Modèle Créatif",
+    "creativeDesc": "Original et percutant",
+    "ats": "Modèle ATS",
+    "atsDesc": "100% optimisé pour les logiciels de tri",
+    "premium": "Modèle Premium",
+    "premiumDesc": "Haut de gamme, élégant et captivant"
+  },
+  "advantages": {
+    "badge": "Excellence & Performance",
+    "title": "Pourquoi choisir PS CV Studio ?",
+    "subtitle": "Tout ce dont vous avez besoin pour réussir votre recherche d'emploi.",
+    "fast": "Création guidée",
+    "fastDesc": "Un assistant étape par étape intuitif.",
+    "ai": "Assistance IA",
+    "aiDesc": "Aide intelligente à la rédaction de vos missions.",
+    "pro": "Modèles professionnels",
+    "proDesc": "Des designs validés par les recruteurs.",
+    "pdf": "Export PDF",
+    "pdfDesc": "Téléchargement d'un fichier A4 haute fidélité.",
+    "save": "Sauvegarde cloud",
+    "saveDesc": "Retrouvez vos CV à tout moment dans votre compte."
+  },
+  "pricing": {
+    "badge": "Investissez en vous",
+    "title": "Des tarifs simples et transparents",
+    "subtitle": "Choisissez le plan qui correspond le mieux à vos ambitions professionnelles.",
+    "free": "Plan Gratuit",
+    "freePrice": "0 CFA",
+    "pro": "Plan Pro",
+    "proPrice": "5 000 CFA",
+    "premium": "Plan Premium",
+    "premiumPrice": "12 000 CFA",
+    "monthly": "/ mois",
+    "getStarted": "Commencer",
+    "popular": "Le plus populaire"
+  },
+  "finalCta": {
+    "title": "Prêt à faire passer votre CV au niveau supérieur ?",
+    "subtitle": "Créez votre CV professionnel dès maintenant.",
+    "button": "Créer mon CV gratuitement →"
+  },
+  "footer": {
+    "desc": "La plateforme de référence pour valoriser votre parcours professionnel et réussir votre carrière en Afrique et à l'international.",
+    "navigation": "Navigation",
+    "legal": "Légal",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales d'utilisation",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  },
+  "cvSections": {
+    "profile": "Profil Professionnel",
+    "experience": "Expériences Professionnelles",
+    "education": "Formations & Diplômes",
+    "skills": "Compétences",
+    "languages": "Langues"
+  },
+  "passwordRules": {
+    "title": "Critères du mot de passe :",
+    "length": "Au moins 8 caractères",
+    "uppercase": "Une lettre majuscule (A-Z)",
+    "lowercase": "Une lettre minuscule (a-z)",
+    "number": "Un chiffre (0-9)",
+    "special": "Un caractère spécial (@, #, !, $, %, &)"
+  }
+}

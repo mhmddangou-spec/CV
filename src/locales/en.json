@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Home",
+    "templates": "Templates",
+    "features": "Features",
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "about": "About",
+    "login": "Sign in",
+    "createResume": "Create my resume"
+  },
+  "hero": {
+    "badge": "✨ Your career starts here",
+    "title": "Your future begins with a great resume.",
+    "subtitle": "Create a professional, modern, and personalized resume in minutes. Choose your template, tell your story, and let PS CV Studio guide you.",
+    "ctaCreate": "Create my resume for free",
+    "ctaHowItWorks": "Discover templates",
+    "trustTitle": "Designed for opportunities in Africa and internationally",
+    "feature1": "Customization",
+    "feature2": "HD PDF Export",
+    "feature3": "Integrated AI"
+  },
+  "howItWorks": {
+    "subtitle": "Simple process",
+    "title": "How it works?",
+    "desc": "Your new professional resume in 4 fast steps.",
+    "step1Title": "Choose your template",
+    "step1Desc": "Select a striking and professional design.",
+    "step2Title": "Add your background",
+    "step2Desc": "Add your experiences and education in a few clicks.",
+    "step3Title": "Customize & preview",
+    "step3Desc": "Format and adjust every detail in live preview.",
+    "step4Title": "Download your PDF",
+    "step4Desc": "Get a high-quality document ready to send."
+  },
+  "templates": {
+    "badge": "Professional Gallery",
+    "title": "Our Resume Templates",
+    "subtitle": "Clean, elegant designs optimized to impress recruiters in Africa and internationally.",
+    "useTemplate": "Create resume with this template",
+    "preview": "Preview",
+    "modern": "Modern Template",
+    "modernDesc": "Colorful banner, ideal for tech & marketing",
+    "classic": "Classic Template",
+    "classicDesc": "Traditional and formal structure",
+    "minimalist": "Minimalist Template",
+    "minimalistDesc": "Generous spacing, clean layout",
+    "creative": "Creative Template",
+    "creativeDesc": "Original and impactful",
+    "ats": "ATS Template",
+    "atsDesc": "100% optimized for applicant tracking systems",
+    "premium": "Premium Template",
+    "premiumDesc": "High-end, elegant and captivating"
+  },
+  "advantages": {
+    "badge": "Excellence & Performance",
+    "title": "Why choose PS CV Studio?",
+    "subtitle": "Everything you need to succeed in your job search.",
+    "fast": "Guided creation",
+    "fastDesc": "An intuitive step-by-step wizard.",
+    "ai": "AI Assistance",
+    "aiDesc": "Smart help writing your descriptions.",
+    "pro": "Professional templates",
+    "proDesc": "Designs approved by top recruiters.",
+    "pdf": "PDF Export",
+    "pdfDesc": "Download a high-fidelity A4 file.",
+    "save": "Cloud backup",
+    "saveDesc": "Find your resumes anytime in your account."
+  },
+  "pricing": {
+    "badge": "Invest in yourself",
+    "title": "Simple and transparent pricing",
+    "subtitle": "Choose the plan that best fits your professional ambitions.",
+    "free": "Free Plan",
+    "freePrice": "0 CFA",
+    "pro": "Pro Plan",
+    "proPrice": "5,000 CFA",
+    "premium": "Premium Plan",
+    "premiumPrice": "12,000 CFA",
+    "monthly": "/ month",
+    "getStarted": "Get Started",
+    "popular": "Most Popular"
+  },
+  "finalCta": {
+    "title": "Ready to take your resume to the next level?",
+    "subtitle": "Create your professional resume right now.",
+    "button": "Create my resume for free →"
+  },
+  "footer": {
+    "desc": "The benchmark platform to showcase your professional background and succeed in your career in Africa and internationally.",
+    "navigation": "Navigation",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "cvSections": {
+    "profile": "Professional Profile",
+    "experience": "Work Experience",
+    "education": "Education & Degrees",
+    "skills": "Skills",
+    "languages": "Languages"
+  },
+  "passwordRules": {
+    "title": "Password requirements:",
+    "length": "At least 8 characters",
+    "uppercase": "One uppercase letter (A-Z)",
+    "lowercase": "One lowercase letter (a-z)",
+    "number": "One number (0-9)",
+    "special": "One special character (@, #, !, $, %, &)"
+  }
+}
